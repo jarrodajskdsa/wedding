@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jarrod & Denise's Wedding</title>
+    <style>
+        body {
+            font-family: 'Arial, sans-serif';
+            background-color: #fff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #fffacd;
+            text-align: center;
+            padding: 50px 0;
+        }
+        header h1 {
+            font-size: 3em;
+            color: #ffd700;
+        }
+        nav {
+            background-color: #fff;
+            padding: 10px 0;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        section {
+            padding: 50px 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        section h2 {
+            font-size: 2em;
+            color: #ffd700;
+            border-bottom: 2px solid #ffd700;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .whimsical {
+            font-family: 'Cursive, Arial, sans-serif';
+        }
+        footer {
+            background-color: #fffacd;
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 class="whimsical">Jarrod & Denise</h1>
+        <p class="whimsical">14th December 2024</p>
+        <p class="whimsical">Maison De Moon, Clarendon</p>
+    </header>
+    <nav>
+        <a href="#our-story">Our Story</a>
+        <a href="#wedding-party">Wedding Party</a>
+        <a href="#event-details">Event Details</a>
+        <a href="#rsvp">RSVP</a>
+        <a href="#registry">Registry</a>
+        <a href="#photos">Photos</a>
+    </nav>
+    <section id="our-story">
+        <h2>Our Story</h2>
+        <p>Welcome to our wedding website! We are so excited to share our special day with you. Our story began...</p>
+    </section>
+    <section id="wedding-party">
+        <h2>Wedding Party</h2>
+        <p>Meet our wonderful wedding party who will be standing by our side on our special day.</p>
+    </section>
+    <section id="event-details">
+        <h2>Event Details</h2>
+        <p>Date: 14th December 2024</p>
+        <p>Location: Maison De Moon, Clarendon</p>
+        <p>Dress Code: Cocktail</p>
+        <p>We will organize transport for our guests.</p>
+    </section>
+    <section id="rsvp">
+        <h2>RSVP</h2>
+        <p>Please let us know if you will be able to join us on our special day by filling out the form below.</p>
+        <!-- Insert RSVP form here -->
+    </section>
+    <section id="registry">
+        <h2>Registry</h2>
+        <p>Your presence at our wedding is the greatest gift of all. However, if you wish to honor us with a gift, we have registered at the following stores.</p>
+        <!-- Insert registry details here -->
+    </section>
+    <section id="photos">
+        <h2>Photos</h2>
+        <p>We can't wait to share the beautiful moments of our journey with you. Stay tuned for photos!</p>
+    </section>
+    <footer>
+        <p>© 2024 Jarrod & Denise. All rights reserved.</p>
+    </footer>
+</body>
+</html>
